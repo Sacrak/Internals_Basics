@@ -1,0 +1,11 @@
+{
+  "action": "kept_champion",
+  "champion_mae": 0.8343445364511668,
+  "combined_data_rows": 45,
+  "comparison_metric": "mae",
+  "improvement": 0.07642422675606952,
+  "min_improvement_threshold": 0.5,
+  "new_data_rows": 20,
+  "original_data_rows": 25,
+  "retrained_mae": 0.7579203096950973
+}

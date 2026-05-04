@@ -1,0 +1,32 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.17.2
+model_size_bytes: 137377
+model_uuid: 415d4615499d4e0f96cb241c76e1ece4
+run_id: 0236c6989190447d86209a895c8e7f21
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "wind_speed_kmph", "required": true}, {"type":
+    "double", "name": "blade_length_m", "required": true}, {"type": "double", "name":
+    "altitude_m", "required": true}, {"type": "double", "name": "humidity_pct", "required":
+    true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+utc_time_created: '2026-05-04 04:13:50.056431'

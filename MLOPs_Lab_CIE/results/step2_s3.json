@@ -1,0 +1,12 @@
+{
+  "base_image": "python:3.12-slim",
+  "image_name": "windcast-predictor",
+  "image_tag": "v1",
+  "prediction": 7.0239261422208035,
+  "test_input": {
+    "altitude_m": 152.1,
+    "blade_length_m": 54.2,
+    "humidity_pct": 46.1,
+    "wind_speed_kmph": 36.7
+  }
+}

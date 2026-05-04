@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sachi/OneDrive/Documents/New%20project/Internals_Basics/MLOPs_Lab_CIE/mlruns/801305985522835897/7a505890d43d4acb8d8fbdfbdfa13ae0/artifacts
+end_time: 1777867948618
+entry_point_name: ''
+experiment_id: '801305985522835897'
+lifecycle_stage: active
+run_id: 7a505890d43d4acb8d8fbdfbdfa13ae0
+run_name: Lasso
+run_uuid: 7a505890d43d4acb8d8fbdfbdfa13ae0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867945762
+status: 3
+tags: []
+user_id: sachi

@@ -1,0 +1,7 @@
+{
+  "created_at": "2026-05-04T04:13:52.352305+00:00",
+  "model_name": "Lasso",
+  "model_path": "C:\\Users\\sachi\\OneDrive\\Documents\\New project\\Internals_Basics\\MLOPs_Lab_CIE\\models\\best_model.pkl",
+  "selected_metric": "rmse",
+  "version": "1.0"
+}

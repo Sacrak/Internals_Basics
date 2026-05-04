@@ -1,0 +1,20 @@
+{
+  "best_metric_name": "rmse",
+  "best_metric_value": 1.0298935253367385,
+  "best_model": "Lasso",
+  "experiment_name": "windcast-turbine-output-mwh",
+  "models": [
+    {
+      "mae": 0.8343445364511668,
+      "name": "Lasso",
+      "r2": 0.8782206418188159,
+      "rmse": 1.0298935253367385
+    },
+    {
+      "mae": 1.6397261455751941,
+      "name": "GradientBoosting",
+      "r2": 0.473301003652692,
+      "rmse": 2.1418385591658344
+    }
+  ]
+}

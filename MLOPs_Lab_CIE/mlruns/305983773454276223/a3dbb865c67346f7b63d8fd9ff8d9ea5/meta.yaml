@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sachi/OneDrive/Documents/New%20project/Internals_Basics/MLOPs_Lab_CIE/mlruns/305983773454276223/a3dbb865c67346f7b63d8fd9ff8d9ea5/artifacts
+end_time: 1777866974310
+entry_point_name: ''
+experiment_id: '305983773454276223'
+lifecycle_stage: active
+run_id: a3dbb865c67346f7b63d8fd9ff8d9ea5
+run_name: GradientBoostingRegressor
+run_uuid: a3dbb865c67346f7b63d8fd9ff8d9ea5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777866971915
+status: 3
+tags: []
+user_id: sachi

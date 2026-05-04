@@ -1,0 +1,17 @@
+{
+  "health_endpoint": "/health",
+  "health_response": {
+    "model": "Lasso",
+    "status": "running",
+    "version": "1.0"
+  },
+  "port": 9000,
+  "predict_endpoint": "/estimate",
+  "prediction": 7.0239261422208035,
+  "test_input": {
+    "altitude_m": 152.1,
+    "blade_length_m": 54.2,
+    "humidity_pct": 46.1,
+    "wind_speed_kmph": 36.7
+  }
+}
